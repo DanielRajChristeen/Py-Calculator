@@ -1,6 +1,6 @@
 # Py Calculator
 
-This is an advanced calculator built with Python that can perform basic arithmetic operations, exponentiation, modulus operations, and square root calculations. It also includes features like calculation history and memory storage.
+This is an DIY calculator built with Python that can perform basic arithmetic operations, exponentiation, modulus operations, and square root calculations. It also includes features like calculation history and memory storage.
 
 ## Features
 
